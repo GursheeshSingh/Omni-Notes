@@ -17,8 +17,8 @@
 
 package it.feio.android.omninotes.utils;
 
-import android.support.test.filters.Suppress;
-import android.support.test.runner.AndroidJUnit4;
+import androidx.test.filters.Suppress;
+import androidx.test.ext.junit.runners.AndroidJUnit4;
 import it.feio.android.omninotes.BaseAndroidTestCase;
 import it.feio.android.omninotes.OmniNotes;
 import java.io.IOException;
